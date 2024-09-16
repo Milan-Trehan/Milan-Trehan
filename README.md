@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about what I'm intrested in.
 - 📫 How to reach me email me...trehanmilan5@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i have never coded before.I'm learning it all on the job.
+- ⚡ Fun fact: I have never coded before.I'm learning it all on the job.
 -->
