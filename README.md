@@ -4,7 +4,7 @@
 **Milan-Trehan/Milan-Trehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+#
 - 🔭 I’m currently working on a degree apprenticeship course with a data analyst pathway at QMUL.
 - 👯 I’m looking to collaborate on anything relevant to my university course
 - 🌱 I’m currently learning the fundementals of programming.
