@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning the fundementals of programming.
 - 🤔 I’m looking for help with learning how to code well and gain some confidence in coding myself.
 - 💬 Ask me about what I'm intrested in.
-- 📫 How to reach me email me...trehanmilan5@gmail.com
+- 📫 How to reach me: email me... trehanmilan5@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have never coded before.I'm learning it all on the job.
 
